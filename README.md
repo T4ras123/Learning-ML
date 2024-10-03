@@ -8,7 +8,7 @@ All the neural networks I wrote learning ML
 4. Small GPT
 5. Linear regression
 
-- [+] Linear regression
+- [x] Linear regression
 - [ ] Ridge Regression
 - [ ] Lasso Regression
 - [ ] Elastic Net Regression
