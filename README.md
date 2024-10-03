@@ -6,9 +6,9 @@ All the neural networks I wrote learning ML
 2. Item of clothing recognition
 3. Small pytorch-like library
 4. Small GPT
-5.
+5. Linear regression
 
-- [ ] Linear regression
+- [+] Linear regression
 - [ ] Ridge Regression
 - [ ] Lasso Regression
 - [ ] Elastic Net Regression
