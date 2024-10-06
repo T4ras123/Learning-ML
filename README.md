@@ -14,7 +14,7 @@ All the neural networks I wrote learning ML
 - [ ] Elastic Net Regression
 - [ ] Random Forest
 - [ ] Gradient Boosting Machines (GBM)
-- [ ] K-Nearest Neighbors (KNN)
+- [x] K-Nearest Neighbors (KNN)
 - [ ] Gaussian Mixture Models (GMM)
 - [ ] Unsupervised Learning
   
